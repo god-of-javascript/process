@@ -11,6 +11,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "cors-expo-jey": "^0.4.5"
+    "cors-expo-jey": "^0.4.6"
   }
 }
